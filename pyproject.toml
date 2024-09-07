@@ -6,10 +6,7 @@ authors = [
 ]
 
 [tool.poetry.dependencies]
-importlib-resources = "^5.8"
-numpy = "^1.19.5"
 python = "^3.9"
-zstandard = "^0.18.0"
 
 
 [tool.poetry.dev-dependencies]
